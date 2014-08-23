@@ -12,6 +12,8 @@ Add this line to your application's Gemfile:
 gem 'polymer-google-map'
 ```
 
+
+
 And then execute:
 
     $ bundle

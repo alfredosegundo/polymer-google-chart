@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = PolymerGoogleMap::VERSION
   spec.authors       = ["Michael Bevz"]
   spec.email         = ["myb@appfellas.co"]
-  spec.description   = %q{Google Map Web Component}
-  spec.summary       = %q{Google Map Web Component}
-  spec.homepage      = "https://github.com/alchapone/polymer-paper-rails"
+  spec.description   = %q{Google Map Polymer Web Component}
+  spec.summary       = %q{Google Map Polymer Web Component}
+  spec.homepage      = "https://github.com/AppFellas/polymer-google-map"
   spec.license       = "MIT"
 
   spec.files = Dir["{app,config,db,lib}/**/*", "Rakefile", "README.md"]
