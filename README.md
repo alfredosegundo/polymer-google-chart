@@ -1,4 +1,4 @@
-# Polymer Google Map Web Component
+# Polymer Google Map Web Component Gem
 
 The Web component implements [Google Map interface](http://googlewebcomponents.github.io/google-map/components/google-map/).
 
@@ -35,5 +35,11 @@ After runnign `bundle install` require needed paper elements into your `applicat
     //= require google-map/google-map
 
 
+## Contributing
 
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
