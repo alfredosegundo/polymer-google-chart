@@ -1,6 +1,6 @@
-# Polymer Google Map Web Component Gem
+# Polymer Google Chart Web Component Gem
 
-The Web component implements [Google Map interface](http://googlewebcomponents.github.io/google-map/components/google-map/).
+The Web component implements [Google Chart interface](http://googlewebcomponents.github.io/google-chart/components/google-chart/).
 
 
 
@@ -9,7 +9,7 @@ The Web component implements [Google Map interface](http://googlewebcomponents.g
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'polymer-google-map'
+gem 'polymer-google-chart'
 ```
 
 
@@ -20,19 +20,19 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install polymer-google-map
+    $ gem install polymer-google-chart
 
 ## Getting started
 
 ```ruby
 gem 'polymer-rails'
-gem 'polymer-google-map'
+gem 'polymer-google-chart'
 ```
 
 After runnign `bundle install` require needed paper elements into your `application.html` manifest file.
 
     //= require polymer/polymer
-    //= require google-map/google-map
+    //= require google-chart/google-chart
 
 
 ## Contributing
