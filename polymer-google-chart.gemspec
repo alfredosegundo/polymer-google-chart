@@ -15,9 +15,9 @@ Gem::Specification.new do |spec|
 
   spec.files = Dir["{app,config,db,lib}/**/*", "Rakefile", "README.md"]
 
-  spec.add_runtime_dependency     "polymer-rails", "~>0.1.9"
+  spec.add_runtime_dependency     "polymer-rails", "~> 1.1.0"
   
-  spec.add_runtime_dependency     "polymer-core-rails", "~>0.1.1"
+  spec.add_runtime_dependency     "polymer-elements-rails", "~> 1.0.1"
   
   spec.add_runtime_dependency     "polymer-google-apis", "~>0.0.1"
 
